@@ -31,6 +31,7 @@ For larger samples, [Review2Idea](https://review2idea.com/en/free-app-review-ana
 ## Files
 
 - [`research-template.md`](research-template.md): Copy this file for every competitor or category.
+- [`aso-review-evidence-appendix.md`](aso-review-evidence-appendix.md): A client-ready evidence appendix for ASO and app-growth audits.
 - [Chinese guide](README.zh-CN.md)
 - [Japanese guide](README.ja.md)
 
