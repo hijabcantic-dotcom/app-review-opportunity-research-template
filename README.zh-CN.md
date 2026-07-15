@@ -18,4 +18,12 @@
 
 如果你正在查看竞品应用页面，可选的 [Chrome 扩展](https://github.com/hijabcantic-dotcom/review2idea-competitor-analyzer) 会把当前 App Store 或 Google Play 链接直接带入这一流程，无需手动复制。
 
+## 在 AI Agent 中使用
+
+可在兼容 Skills 的 AI Agent 中安装证据调研工作流：
+
+```bash
+npx skills add hijabcantic-dotcom/app-review-opportunity-research-template --skill app-review-evidence-research
+```
+
 查看英文完整模板：[README.md](README.md)。

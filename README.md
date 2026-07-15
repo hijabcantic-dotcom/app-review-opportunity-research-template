@@ -30,10 +30,21 @@ For larger samples, [Review2Idea](https://review2idea.com/en/free-app-review-ana
 
 If you are already looking at a competitor listing, the optional [Chrome extension](https://github.com/hijabcantic-dotcom/review2idea-competitor-analyzer) sends the active App Store or Google Play URL into that workflow without copying it manually.
 
+## Use with AI agents
+
+[![skills.sh](https://skills.sh/b/hijabcantic-dotcom/app-review-opportunity-research-template)](https://skills.sh/hijabcantic-dotcom/app-review-opportunity-research-template)
+
+Install the evidence-research workflow in a skills-compatible agent:
+
+```bash
+npx skills add hijabcantic-dotcom/app-review-opportunity-research-template --skill app-review-evidence-research
+```
+
 ## Files
 
 - [`research-template.md`](research-template.md): Copy this file for every competitor or category.
 - [`aso-review-evidence-appendix.md`](aso-review-evidence-appendix.md): A client-ready evidence appendix for ASO and app-growth audits.
+- [`app-review-evidence-research`](app-review-evidence-research): Installable AI workflow for producing an evidence brief.
 - [Chinese guide](README.zh-CN.md)
 - [Japanese guide](README.ja.md)
 

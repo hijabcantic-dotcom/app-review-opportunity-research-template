@@ -18,4 +18,12 @@
 
 競合アプリのページを見ている場合は、任意の [Chrome 拡張機能](https://github.com/hijabcantic-dotcom/review2idea-competitor-analyzer) が現在の App Store または Google Play の URL を手動コピーなしでこのフローに渡します。
 
+## AI エージェントで使う
+
+Skills 対応の AI エージェントには、次のコマンドで根拠リサーチのワークフローをインストールできます。
+
+```bash
+npx skills add hijabcantic-dotcom/app-review-opportunity-research-template --skill app-review-evidence-research
+```
+
 完全な英語版テンプレート：[README.md](README.md)。
