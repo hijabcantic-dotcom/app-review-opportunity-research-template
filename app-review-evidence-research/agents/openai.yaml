@@ -1,0 +1,4 @@
+interface:
+  display_name: "App Review Evidence Research"
+  short_description: "Turn public app reviews into interview-ready product hypotheses."
+  default_prompt: "Use public competitor reviews to create an evidence brief and interview questions."
