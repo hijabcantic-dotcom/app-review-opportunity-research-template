@@ -28,6 +28,8 @@ Start with one product. After you find a credible cluster, repeat the same exerc
 
 For larger samples, [Review2Idea](https://review2idea.com/en/free-app-review-analysis-tool?utm_source=github&utm_medium=referral&utm_campaign=app_review_research_template) groups public reviews into evidence-backed pain-point clusters and produces a research starting point. Keep the source reviews and validate the hypothesis with real users.
 
+If you are already looking at a competitor listing, the optional [Chrome extension](https://github.com/hijabcantic-dotcom/review2idea-competitor-analyzer) sends the active App Store or Google Play URL into that workflow without copying it manually.
+
 ## Files
 
 - [`research-template.md`](research-template.md): Copy this file for every competitor or category.

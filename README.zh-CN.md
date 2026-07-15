@@ -16,4 +16,6 @@
 
 需要处理更大样本时，[Review2Idea](https://review2idea.com/zh/free-app-review-analysis-tool?utm_source=github&utm_medium=referral&utm_campaign=app_review_research_template) 可以将公开评论聚类为带原始证据的痛点。仍应保留原评论，并通过真实用户访谈验证假设。
 
+如果你正在查看竞品应用页面，可选的 [Chrome 扩展](https://github.com/hijabcantic-dotcom/review2idea-competitor-analyzer) 会把当前 App Store 或 Google Play 链接直接带入这一流程，无需手动复制。
+
 查看英文完整模板：[README.md](README.md)。

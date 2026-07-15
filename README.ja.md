@@ -16,4 +16,6 @@
 
 より大きなサンプルには、[Review2Idea](https://review2idea.com/ja/free-app-review-analysis-tool?utm_source=github&utm_medium=referral&utm_campaign=app_review_research_template) が公開レビューを根拠付きの課題クラスタにまとめます。元レビューを保持し、実際のユーザーインタビューで仮説を検証してください。
 
+競合アプリのページを見ている場合は、任意の [Chrome 拡張機能](https://github.com/hijabcantic-dotcom/review2idea-competitor-analyzer) が現在の App Store または Google Play の URL を手動コピーなしでこのフローに渡します。
+
 完全な英語版テンプレート：[README.md](README.md)。
